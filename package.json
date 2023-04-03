@@ -1,0 +1,16 @@
+{
+  "name": "poc.cosmossql",
+  "version": "1.0.0",
+  "description": "--- page_type: sample languages: - azdeveloper - aspx-csharp - csharp - bicep - typescript - html products: - azure - azure-cosmos-db - azure-app-service - azure-monitor - azure-pipelines - aspnet-core urlFragment: todo-csharp-cosmos-sql name: Web Application with a C# API and Azure Cosmos DB SQL API description: A complete ToDo app with C# API and Azure Cosmos DB SQL API for storage. Uses Azure Developer CLI (azd) to build, deploy, and monitor --- <!-- YAML front-matter schema: https://review.learn.microsoft.com/en-us/help/contribute/samples/process/onboarding?branch=main#supported-metadata-fields-for-readmemd -->",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.32.1"
+  }
+}
